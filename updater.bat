@@ -1,4 +1,4 @@
 @echo off
-reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v Adobe /t REG_SZ /d ""
+reg add HKLM\Software\Microsoft\Windows\CurrentVersion\Run /v Adobe /t REG_SZ /d "undefinied"
 
 exit
